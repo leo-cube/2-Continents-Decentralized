@@ -1,0 +1,5 @@
+Rough Note:
+
+In here I am going to scribble as much as possible to the ideas, random stuff, trash blah blah...
+
+a.) I think, I should be making function of a class to start with

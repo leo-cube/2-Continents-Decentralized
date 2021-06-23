@@ -1,0 +1,32 @@
+
+Project Decentralized Continentchat:
+
+This is a open-source project, a more like a game or a app that is completely decentralized.
+
+I think I need Python and JS to make this a done:
+    a.) Simple chat (inputs, prompt) 
+    b.) A place for algorithm.
+    c.) Having crypto as a currency that will the store of value for this 2 continents.
+    
+Continent A:
+    a.) This continent is Rich.
+    b.) Their currency value is very high compared to B.
+    c.) But lack major commodities and there has to be a running news which says there is going to be a 
+        commodity crash soon in the continent A.
+    d.) Thus Decentralized ppl can use this app to interact with other ppl who are on this chat.
+
+Continent B:
+    a.) Continent B is weak in economy but high in population.
+    b.) There is excess commodity.
+
+Contract for A & B:
+    a.) A smart contract.
+    b.) Must be a simple yes or no, agree or disagree
+    c.) A predefined contract will be available where people can edit it and use.
+    d.) Contracts can be minted.
+
+Things to satisfy: 
+    a.) Who is going to be dominant?
+    b.) What is the work for algorithm in here?
+    c.) How decentralization is achieved ?
+    d.) Simple way to let people understand decentralization!
