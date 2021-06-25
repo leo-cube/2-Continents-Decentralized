@@ -2,4 +2,8 @@ Rough Note:
 
 In here I am going to scribble as much as possible to the ideas, random stuff, trash blah blah...
 
-a.) I think, I should be making function of a class to start with
+a.) I think, I should be making function of a class to start with.
+
+b.) Now make a import random
+    and then we will create a number that will be the
+    secret code for the contract, exchange.
